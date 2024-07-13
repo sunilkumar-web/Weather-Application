@@ -23,7 +23,7 @@ A weather application is a software tool designed to provide users with up-to-da
 # Setup
 1 Clone the repository:
 
-git clone https://github.com/yourusername/vMessenger.git
+git clone https://github.com/sunilkumar-web/Weather-Application.git
 cd vMessenger
 
 2 Set up a virtual environment:
